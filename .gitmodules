@@ -1,3 +1,7 @@
 [submodule "backend_shareme"]
 	path = backend_shareme
 	url = https://github.com/Illumanizer/backend_shareme
+
+[submodule "frontend_shareme"]
+	path = frontend_shareme
+	url = https://github.com/Illumanizer/frontend_shareme
