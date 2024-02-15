@@ -24,10 +24,14 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 
-[![]()](https://github.com/Illumanizer/ecommerce_next_sanity/assets/74318570/eff8642e-92b9-4221-ad66-ef9189850c8e)
+https://github.com/Illumanizer/ecommerce_next_sanity/assets/74318570/eff8642e-92b9-4221-ad66-ef9189850c8e](https://github.com/Illumanizer/socialmedia_shareme/assets/74318570/5c1cb774-38e5-4bf6-a2dd-eed43802741f
 ## Lessons Learned
 
 - learnt tailwind integration
-- learnt cart manipulation
-- implemented stripe payment gateway
+- learnt to manage user profile
+- implemented client-server connection
 - learnt to work on sanity database
+
+
+
+
